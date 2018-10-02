@@ -9,7 +9,12 @@ Part 2: https://youtu.be/8xgMOjcEic0
 
 Part 3: https://youtu.be/zs23w0LRdp4
 
+![Alt text for your video](https://img.youtube.com/vi/zs23w0LRdp4/0.jpg)
+
 Prat 4: https://youtu.be/vcVzAjtsuhc
+
+![Alt text for your video](https://img.youtube.com/vi/vcVzAjtsuhc/0.jpg)
+
 
 
 Devmins Developers : https://devmins-developers.business.site/
