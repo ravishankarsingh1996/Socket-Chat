@@ -16,8 +16,11 @@ Prat 4: https://youtu.be/vcVzAjtsuhc
 ![Alt text for your video](https://img.youtube.com/vi/vcVzAjtsuhc/0.jpg)
 
 
-
 Devmins Developers : https://devmins-developers.business.site/
+
+Youtube Channel: https://www.youtube.com/channel/UCUMrRePIS_TOjxxnY1bUydA
+
+(Please subscribe to the channel if you like to tutorial)
 
 Freelance : https://www.freelancer.co.ke/u/devmins
 
